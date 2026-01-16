@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 Software Engineer specializing in ASP.NET Core, with 3+ years of hands-on experience
+- 🧑‍💻 Software Engineer specializing in ASP.NET Core, with 4+ years of hands-on experience
 - 🏆 Delivered 10+ successful projects for clients, focusing on scalable, secure, and clean solutions
 - 🛠️ Expert in backend, frontend, databases, cloud, and modern software architecture
 - 🌐 Passionate about learning, sharing, and building impactful products
