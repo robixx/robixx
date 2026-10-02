@@ -73,8 +73,24 @@
 ## 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robixx&show_icons=true&theme=radical" alt="robixx stats"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=robixx&theme=radical&row=1&column=7" alt="robixx trophies"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=robixx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical"
+    alt="GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=robixx&layout=compact&langs_count=8&hide_border=true&theme=radical"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=robixx&theme=radical&no-frame=true&no-bg=true&row=1&column=7"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
