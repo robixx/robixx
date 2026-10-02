@@ -79,11 +79,12 @@
     height="180"
   />
 
+  <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=robixx&layout=compact&langs_count=8&hide_border=true&theme=radical"
     alt="Top Languages"
-    height="180"
   />
+</p>
 </p>
 
 <p align="center">
